@@ -1,11 +1,3 @@
 this is the firs line of the file
-
-
-
-
 and this line is for the task 02
-
-
-
-
 this line is for the task 02 too
